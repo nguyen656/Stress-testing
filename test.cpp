@@ -20,6 +20,6 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    // Random code
+    // Write your random code here. 
     return 0;
 }
